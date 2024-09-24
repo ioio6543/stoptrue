@@ -1,0 +1,2 @@
+# stoptrue
+マルウェアstoptrue
